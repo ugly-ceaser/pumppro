@@ -1,4 +1,8 @@
 {
   "name": "pumppro",
-  "displayName": "pumppro"
+  "displayName": "pumppro",
+  "expo": {
+    "entryPoint": "./index.js",
+    "newArchEnabled": true
+  }
 }
